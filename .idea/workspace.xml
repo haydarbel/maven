@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="second fault" />
+    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="jacoco">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628591506323</updated>
-      <workItem from="1628591509918" duration="2300000" />
+      <workItem from="1628591509918" duration="3236000" />
     </task>
     <task id="LOCAL-00001" summary="the first commmit">
       <created>1628591601474</created>
@@ -142,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628602042005</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fault is corrected">
+      <created>1628602176266</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1628602176266</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jacoco">
+      <created>1628602729299</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628602729299</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +181,8 @@
     <MESSAGE value="fault" />
     <MESSAGE value="fault was corrected" />
     <MESSAGE value="second fault" />
-    <option name="LAST_COMMIT_MESSAGE" value="second fault" />
+    <MESSAGE value="fault is corrected" />
+    <MESSAGE value="jacoco" />
+    <option name="LAST_COMMIT_MESSAGE" value="jacoco" />
   </component>
 </project>
