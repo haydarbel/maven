@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="spotbugs is just added">
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/vdab/goededoel/domain/GoedeDoel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/vdab/goededoel/domain/GoedeDoel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/be/vdab/goededoel/domain/GoedeDoelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/be/vdab/goededoel/domain/GoedeDoelTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="spotbugs is just tried" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628591506323</updated>
       <workItem from="1628591509918" duration="5072000" />
-      <workItem from="1628606742317" duration="425000" />
+      <workItem from="1628606742317" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="the first commmit">
       <created>1628591601474</created>
@@ -202,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628606772411</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="spotbugs is just tried">
+      <created>1628607621092</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1628607621092</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +235,7 @@
     <MESSAGE value="jacoco is added" />
     <MESSAGE value="spotbugs is added" />
     <MESSAGE value="spotbugs is just added" />
-    <option name="LAST_COMMIT_MESSAGE" value="spotbugs is just added" />
+    <MESSAGE value="spotbugs is just tried" />
+    <option name="LAST_COMMIT_MESSAGE" value="spotbugs is just tried" />
   </component>
 </project>
