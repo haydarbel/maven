@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="the with first test commmit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/be/vdab/goededoel/domain/GoedeDoelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/be/vdab/goededoel/domain/GoedeDoelTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="fault" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1wX4GFMJffGrB4KhN61tF1Tk55x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,7 +37,7 @@
       <recent name="be.vdab.goededoel.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GoedeDoelTest">
+  <component name="RunManager" selected="JUnit.GoedeDoelTest.eenNieuwDoelHeeftNogGeenOpbrengst">
     <configuration name="GoedeDoelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GoedeDoel" />
       <extension name="coverage">
@@ -80,8 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GoedeDoelTest" />
         <item itemvalue="JUnit.GoedeDoelTest.eenNieuwDoelHeeftNogGeenOpbrengst" />
+        <item itemvalue="JUnit.GoedeDoelTest" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628591506323</updated>
-      <workItem from="1628591509918" duration="1660000" />
+      <workItem from="1628591509918" duration="1925000" />
     </task>
     <task id="LOCAL-00001" summary="the first commmit">
       <created>1628591601474</created>
@@ -116,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628596416061</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fault">
+      <created>1628601267053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628601267053</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fault">
+      <created>1628601357738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628601357738</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the first commmit" />
     <MESSAGE value="the with first test commmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="the with first test commmit" />
+    <MESSAGE value="fault" />
+    <option name="LAST_COMMIT_MESSAGE" value="fault" />
   </component>
 </project>
