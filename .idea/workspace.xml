@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="the first commmit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="the with first test commmit">
       <change beforePath="$PROJECT_DIR$/src/test/java/be/vdab/goededoel/domain/GoedeDoelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/be/vdab/goededoel/domain/GoedeDoelTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628591506323</updated>
-      <workItem from="1628591509918" duration="675000" />
+      <workItem from="1628591509918" duration="959000" />
     </task>
     <task id="LOCAL-00001" summary="the first commmit">
       <created>1628591601474</created>
@@ -86,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628591601474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="the with first test commmit">
+      <created>1628596222266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628596222266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the first commmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="the first commmit" />
+    <MESSAGE value="the with first test commmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="the with first test commmit" />
   </component>
 </project>
