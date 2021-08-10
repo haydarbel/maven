@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="fault" />
+    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="second fault" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +37,7 @@
       <recent name="be.vdab.goededoel.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GoedeDoelTest.eenNieuwDoelHeeftNogGeenOpbrengst">
+  <component name="RunManager" selected="JUnit.GoedeDoelTest">
     <configuration name="GoedeDoelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GoedeDoel" />
       <extension name="coverage">
@@ -78,8 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GoedeDoelTest.eenNieuwDoelHeeftNogGeenOpbrengst" />
         <item itemvalue="JUnit.GoedeDoelTest" />
+        <item itemvalue="JUnit.GoedeDoelTest.eenNieuwDoelHeeftNogGeenOpbrengst" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628591506323</updated>
-      <workItem from="1628591509918" duration="1925000" />
+      <workItem from="1628591509918" duration="2300000" />
     </task>
     <task id="LOCAL-00001" summary="the first commmit">
       <created>1628591601474</created>
@@ -128,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628601357738</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fault was corrected">
+      <created>1628601719809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628601719809</updated>
+    </task>
+    <task id="LOCAL-00007" summary="second fault">
+      <created>1628602042005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628602042005</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +163,8 @@
     <MESSAGE value="the first commmit" />
     <MESSAGE value="the with first test commmit" />
     <MESSAGE value="fault" />
-    <option name="LAST_COMMIT_MESSAGE" value="fault" />
+    <MESSAGE value="fault was corrected" />
+    <MESSAGE value="second fault" />
+    <option name="LAST_COMMIT_MESSAGE" value="second fault" />
   </component>
 </project>
