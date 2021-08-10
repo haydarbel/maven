@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="jacoco is added">
+    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="spotbugs is added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -93,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628591506323</updated>
-      <workItem from="1628591509918" duration="4732000" />
+      <workItem from="1628591509918" duration="5072000" />
     </task>
     <task id="LOCAL-00001" summary="the first commmit">
       <created>1628591601474</created>
@@ -165,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628603607424</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="spotbugs is added">
+      <created>1628606557938</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628606557938</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +202,7 @@
     <MESSAGE value="fault is corrected" />
     <MESSAGE value="jacoco" />
     <MESSAGE value="jacoco is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="jacoco is added" />
+    <MESSAGE value="spotbugs is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="spotbugs is added" />
   </component>
 </project>
