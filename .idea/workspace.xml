@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GoedeDoelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GoedeDoel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="be.vdab.goededoel.GoedeDoelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
