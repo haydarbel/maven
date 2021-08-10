@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="spotbugs is added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8dc1ae9e-6abd-4180-8b29-e73814d05138" name="Changes" comment="spotbugs is just added">
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/vdab/goededoel/domain/GoedeDoel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/vdab/goededoel/domain/GoedeDoel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/be/vdab/goededoel/domain/GoedeDoelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/be/vdab/goededoel/domain/GoedeDoelTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
       <recent name="be.vdab.goededoel.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GoedeDoelTest">
+  <component name="RunManager" selected="JUnit.GoedeDoelTest.gelijkeDoelGevenHebbenDezelfdeHashCode">
     <configuration name="GoedeDoelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GoedeDoel" />
       <extension name="coverage">
@@ -75,6 +76,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GoedeDoelTest.gelijkeDoelGevenHebbenDezelfdeHashCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GoedeDoel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.vdab.goededoel.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="be.vdab.goededoel.domain" />
+      <option name="MAIN_CLASS_NAME" value="be.vdab.goededoel.domain.GoedeDoelTest" />
+      <option name="METHOD_NAME" value="gelijkeDoelGevenHebbenDezelfdeHashCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GoedeDoelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="GoedeDoel" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="be.vdab.goededoel.GoedeDoelApplication" />
@@ -84,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GoedeDoelTest.gelijkeDoelGevenHebbenDezelfdeHashCode" />
         <item itemvalue="JUnit.GoedeDoelTest" />
         <item itemvalue="JUnit.GoedeDoelTest.eenNieuwDoelHeeftNogGeenOpbrengst" />
       </list>
@@ -98,6 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628591506323</updated>
       <workItem from="1628591509918" duration="5072000" />
+      <workItem from="1628606742317" duration="425000" />
     </task>
     <task id="LOCAL-00001" summary="the first commmit">
       <created>1628591601474</created>
@@ -176,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628606557938</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="spotbugs is just added">
+      <created>1628606772411</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1628606772411</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +218,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the first commmit" />
@@ -203,6 +230,7 @@
     <MESSAGE value="jacoco" />
     <MESSAGE value="jacoco is added" />
     <MESSAGE value="spotbugs is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="spotbugs is added" />
+    <MESSAGE value="spotbugs is just added" />
+    <option name="LAST_COMMIT_MESSAGE" value="spotbugs is just added" />
   </component>
 </project>
